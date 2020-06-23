@@ -49,9 +49,9 @@ Ciao come va?
 === MALATTIA ===
 
 // Introduzione alla storia
-Una donna di nome (inserire nome) decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina superiore di Khora. La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno nel quale il figlio si ammala di un malessere sconosciuto. La donna con il passare del tempo nota che la malattia del figlio degenera e chiese aiuto ai medici senza aver nessuna diagnosi del problema. Disperata andò a chiedere al demone se la poteva aiutare. 
+Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina superiore di Khora. La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto. La donna con il passare del tempo nota che la malattia del figlio degenera e chiese aiuto ai medici senza aver nessuna diagnosi del problema. Disperata andò a chiedere al demone se la poteva aiutare. 
 //Dialogo 1
-Donna "ascoltami Daleos, sono qui per chiederti aiuto
+Donna?occhi "ascoltami Daleos, sono qui per chiederti aiuto
 Demone "ti ascolto, sussurrami cosa tormenta la tua povera anima
 Donna "mio figlio... mio figlio è malato e nessuno riesce a salvarlo
 Demone "lo so
@@ -60,12 +60,12 @@ Demone "io so tutto di questo insulso mondo...
 Demone "posso aiutarti, prendi questa medicina e vedrai che tuo figlio guarirà. In cambio esigo la tua possibilità d’amare
 
     * accettare il primo appartamento
+    -> Scelte
     * rifiutare il primo patto
+    -> Scelte
 
 
 
-
--> Scelte
 
 // Terza Storia
 === AMBIZIA ===
