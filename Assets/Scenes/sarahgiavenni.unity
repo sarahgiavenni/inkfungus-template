@@ -3445,7 +3445,7 @@ MonoBehaviour:
   ink: {fileID: 4900000, guid: 97d214627c912fd41a9614584ac06a3e, type: 3}
   sayDialog: {fileID: 0}
   menuDialog: {fileID: 0}
-  defaultCharacterColor: {r: 0, g: 0, b: 0, a: 0}
+  defaultCharacterColor: {r: 0, g: 0, b: 0, a: 1}
   hideQuestions: 0
   echoAnswers: 0
   autoProceed: 0
