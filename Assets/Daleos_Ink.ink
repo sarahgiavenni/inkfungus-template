@@ -8,6 +8,12 @@
 
 === Introduzione ===
 
+ -> sfondodialogo
+ 
+ = sfondodialogo
+ 
+ #fadeoutstart
+ 
 // Dialogo iniziale
 Narratore?chiusi "Nella lontana regione di Omagna, vi era una piccola cittadina sulla vetta della montagna, non molto popolata, costruita prevalentemente in pietra nera  
 Narratore?chiusi "e difesa da una guradia cittadina un po' sconsiderata, il suo nome era Khora, la cittadina conosciuta come mora. 
@@ -51,11 +57,24 @@ Ciao come va?
 // Introduzione alla storia
 .
 
+-> villaggio
+
+= villaggio 
+
 //Dialogo 1
 Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina di Khora.
 Narratore?aperti "La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto.
+
+-> stanzafigliodonna
+
+= stanzafigliodonna
+
 Narratore?aperti "La donna con il passare del tempo nota che la malattia del figlio degenera e chiese aiuto ai medici senza aver nessuna diagnosi del problema.
 Narratore?aperti "Disperata andò a chiedere al demone se la poteva aiutare. 
+
+-> porto
+
+= porto
 
 Donna?occhi "ascoltami Daleos, sono qui per chiederti aiuto
 Demone "ti ascolto, sussurrami cosa tormenta la tua povera anima
