@@ -49,8 +49,14 @@ Ciao come va?
 === MALATTIA ===
 
 // Introduzione alla storia
-Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina superiore di Khora. La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto. La donna con il passare del tempo nota che la malattia del figlio degenera e chiese aiuto ai medici senza aver nessuna diagnosi del problema. Disperata andò a chiedere al demone se la poteva aiutare. 
+.
+
 //Dialogo 1
+Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina di Khora.
+Narratore?aperti "La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto.
+Narratore?aperti "La donna con il passare del tempo nota che la malattia del figlio degenera e chiese aiuto ai medici senza aver nessuna diagnosi del problema.
+Narratore?aperti "Disperata andò a chiedere al demone se la poteva aiutare. 
+
 Donna?occhi "ascoltami Daleos, sono qui per chiederti aiuto
 Demone "ti ascolto, sussurrami cosa tormenta la tua povera anima
 Donna "mio figlio... mio figlio è malato e nessuno riesce a salvarlo
@@ -59,13 +65,42 @@ Donna "come fai a saperlo
 Demone "io so tutto di questo insulso mondo...
 Demone "posso aiutarti, prendi questa medicina e vedrai che tuo figlio guarirà. In cambio esigo la tua possibilità d’amare
 
-    * accettare il primo appartamento
-    -> Scelte
+    * accettare il primo patto
+    La donna ottiene la medicina e corre alla sua dimora per poter dar l’antidoto al proprio figlio. La medicina inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal demone.
+    -> secondo_patto_malattia
+    
     * rifiutare il primo patto
+    La donna scappa senza dare nessuna risposta.
+    Il demone cerca di convircerla modificando il patto
+    Demone "La medicina in cambio della tua bellezza
+    
+    *** accetta scelta
+    La donna diventa inguardabile ma ottiene la medicina
+    Corre alla sua dimora per poter dare l'antidoto al proprio figlio. 
+    La medicina inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal demone.
+    -> secondo_patto_malattia
+    
+    *** rifiuta scelta
+    la donna volta le spalle al demone e se con passo spedito, scappa
     -> Scelte
 
+-> secondo_patto_malattia
 
+= secondo_patto_malattia
 
+// Secondo Patto
+    La donna chiama il demone, ed esso si presenta porponendole un Secondo patto.
+
+Donna?triste "la medicina non ha funzionato
+Demone "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambio esigo la tua felicità
+
+    * accettare secondo patto
+    * rifiutare secondo patto
+    * controbattere secondo patto
+    
+   
+
+ 
 
 // Terza Storia
 === AMBIZIA ===
