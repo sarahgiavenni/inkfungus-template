@@ -147,6 +147,7 @@ GameObject:
   - component: {fileID: 5782906}
   - component: {fileID: 5782907}
   - component: {fileID: 5782908}
+  - component: {fileID: 5782909}
   m_Layer: 0
   m_Name: Start Game Flowchart
   m_TagString: Untagged
@@ -179,9 +180,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 5782894}
+  - {fileID: 5782893}
   selectedCommands:
-  - {fileID: 5782908}
+  - {fileID: 5782909}
   variables: []
   description: 
   stepPause: 0
@@ -264,7 +265,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 114.315765
     y: 149.36832
-    width: 131.57892
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -275,6 +276,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 5782892}
   - {fileID: 5782906}
+  - {fileID: 5782909}
   suppressAllAutoSelections: 0
 --- !u!114 &5782894
 MonoBehaviour:
@@ -332,8 +334,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 120.36844
-    y: 15.368431
+    x: 121.68423
+    y: 16.68422
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -595,6 +597,24 @@ MonoBehaviour:
   activeState:
     booleanRef: {fileID: 0}
     booleanVal: 1
+--- !u!114 &5782909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5782890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a598660d01b2343bb92adebcbb629ec5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 19
+  indentLevel: 0
+  targetClickable2D: {fileID: 967314329}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
 --- !u!1 &171028277
 GameObject:
   m_ObjectHideFlags: 0
@@ -2644,7 +2664,7 @@ GameObject:
   - component: {fileID: 967314330}
   - component: {fileID: 967314329}
   m_Layer: 0
-  m_Name: ClickableSprite
+  m_Name: start botton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2663,7 +2683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clickEnabled: 1
-  hoverCursor: {fileID: 2800000, guid: b26518ba7d72a4fd3bc42599f621c839, type: 3}
+  hoverCursor: {fileID: 2800000, guid: 22eb050bacf8c401ca8503e24bff3570, type: 3}
   useEventSystem: 0
 --- !u!61 &967314330
 BoxCollider2D:
@@ -2678,18 +2698,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00000047683716, y: -0.00000047683716}
+  m_Offset: {x: -0.395921, y: 0.010996819}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.92, y: 1.08}
+    oldSize: {x: 9.6, y: 2.24}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.93601227, y: 1.1129255}
+  m_Size: {x: 7.842624, y: 2.2346973}
   m_EdgeRadius: 0
 --- !u!212 &967314331
 SpriteRenderer:
@@ -2730,7 +2750,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 58824dd91ce5ee5459dd3ae15c945766, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dd4048ee6a4249543a2fefc744b2d75e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2749,7 +2769,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 967314328}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.5, y: 1.0424858, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
