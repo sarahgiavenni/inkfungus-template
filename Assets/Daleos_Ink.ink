@@ -13,6 +13,7 @@
  = sfondodialogo
  
  #fadeoutstart
+
  
 // Dialogo iniziale
 Narratore?chiusi "Nella lontana regione di Omagna, vi era una piccola cittadina sulla vetta della montagna, non molto popolata, costruita prevalentemente in pietra nera  
@@ -60,7 +61,7 @@ Ciao come va?
 -> villaggio
 
 = villaggio 
-
+#villaggio
 //Dialogo 1
 Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina di Khora.
 Narratore?aperti "La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto.
