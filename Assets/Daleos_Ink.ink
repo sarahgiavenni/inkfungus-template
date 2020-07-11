@@ -41,7 +41,7 @@ Narratore?aperti "Quale storia vuoi affrontare questa volta?
 * [La Fortuna]
 -> FORTUNA
 
-* [La Malattia]
+* [La Malattia] 
 -> MALATTIA
 
 * [L'ambizia]
@@ -56,12 +56,12 @@ Ciao come va?
 === MALATTIA ===
 
 // Introduzione alla storia
-.
+
 
 -> villaggio
 
 = villaggio 
-#villaggio
+
 //Dialogo 1
 Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina di Khora.
 Narratore?aperti "La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto.
