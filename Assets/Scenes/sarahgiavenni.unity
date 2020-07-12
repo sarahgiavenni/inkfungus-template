@@ -2626,8 +2626,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -343507333
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 65e4fcc5d9cfa13498f5a953b3de6d78, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2693,8 +2693,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -343507333
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 1a3bc26a23e9c4642b9d73a0c1f20ca9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3226,11 +3226,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 323.52118, y: -49.799713}
+  scrollPos: {x: 373.55716, y: -70.71149}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.6700003
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -3238,8 +3238,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 880283469}
-  selectedCommands: []
+  - {fileID: 880283475}
+  selectedCommands:
+  - {fileID: 880283474}
   variables: []
   description: 
   stepPause: 0
@@ -3317,7 +3318,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 39
     y: 145
-    width: 196.26859
+    width: 195
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3380,7 +3381,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 38
     y: 223
-    width: 251.49245
+    width: 248
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3443,7 +3444,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 74
     y: 294
-    width: 178.35815
+    width: 177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3506,7 +3507,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 77
     y: 352
-    width: 178.35815
+    width: 178
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3569,7 +3570,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 86
     y: 431
-    width: 179.8507
+    width: 180
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3609,7 +3610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  duration: 1
+  duration: 0.5
   fadeOut: 1
   targetView: {fileID: 810539379}
   waitUntilFinished: 1
@@ -3630,9 +3631,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -208.95566
+    x: -207.95566
     y: 255.82355
-    width: 235.07454
+    width: 232
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3672,7 +3673,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  duration: 1
+  duration: 0.5
   fadeOut: 1
   targetView: {fileID: 810539379}
   waitUntilFinished: 1
@@ -3695,7 +3696,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -212.48343
     y: 181.54483
-    width: 232.08946
+    width: 229
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3720,7 +3721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  duration: 1
+  duration: 0.5
   fadeOut: 1
   targetView: {fileID: 810539379}
   waitUntilFinished: 1
@@ -3758,7 +3759,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -206.57373
     y: 105.173615
-    width: 230.59692
+    width: 227
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
