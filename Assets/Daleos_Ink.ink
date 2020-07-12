@@ -406,10 +406,17 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 // Terza Storia
 === AMBIZIA ===
 
+-> casa_ambizia
+
+= casa_ambizia
 
 Narratore?aperti "Un uomo povero, che ormai non ha più nulla da perdere e che vive nella città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare un ricco proprietario di terreni della città. 
 Narratore?aperti "Ma non essendo nessuno, non riuscirà mai ad avverare il
 suo desiderio a meno che non si rivolga al demone.
+
+-> porto
+
+= porto
 
 Uomo_Ambizia?arrabbiato "Demone mostrati! Dove sei?!
 Daleos?chiusi "Dimmi mortale, perché cerchi il mio consiglio
@@ -420,15 +427,23 @@ Daleos?chiusi "Se tu mi dai i tuoi ricordi più cari, io posso iniziarti ad arri
 Uomo_Ambizia?normale "sì facendo il mio nome sarà conosciuto ovunque?
 Daleos?aperti "Questo è tutto da vedere
 
+-> sfondodialogo
+
+= sfondodialogo
+
 * Accettare primo patto
 -> ACCETTARE_PRIMO_PATTO
 * Rifiutare primo patto
 -> RIFIUTA_PRIMO_PATTO
-* Ccontrobbattere primo patto
+* Controbbattere primo patto
 -> CONTROBBATTERE_PRIMO_PATTO
 
 
 = ACCETTARE_PRIMO_PATTO
+
+-> villaggio
+
+= villaggio
 
 L’uomo si arricchisce ma perde completamente i suoi ricordi
 Narratore?aperti "L’uomo ottiene i soldi che lui desiderava e quindi anche quel poco di fama che bramava. 
@@ -439,6 +454,10 @@ Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per po
 -> TORNA_DAL_DEMONE
 
 = TORNA_DAL_DEMONE
+
+-> porto1
+
+= porto1
 
 Uomo_Ambizia?arrabbiato "Daleos! Dove sei maledetto demone!
 Daleos?chiusi "Dimmi" *sorridendo* che succede?
@@ -459,6 +478,10 @@ Daleos?chiusi "Ecco
 Uomo_Ambizia?arrabbiato "E quella che sarebbe? Un misera moneta? Che me ne faccio?
 Daleos?aperti "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
 
+-> sfondodialogo1
+
+= sfondodialogo1
+
 * Accettare secondo patto
 -> ACCETTARE_SECONDO_PATTO
 
@@ -470,11 +493,20 @@ L’uomo ragiona e non accetta il patto, l’unica cosa che non vuole perdere è
 
 = ACCETTARE_SECONDO_PATTO
 L’uomo accetta, ormai è insicuro di qualsiasi cosa che fa e farà, ma almeno ha ottenuto l’amuleto
+
+-> casa_ambizia1
+
+= casa_ambizia1
+
 L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. Queste erano le frasi che tormentavano la testa dell’uomo. Ed insicuro, anche di se stesso, decise di tornare una terza volta da demone
  
  * Torna dal demone
  L’uomo tornò dal demone una terza volta
  
+ -> porto2
+
+= porto2
+
 Daleos?chiusi "Oooh pover uomo, vieni, avvicinati, e raccontami cosa desideri
 Uomo_Ambizia?triste "Non so chi sono, ho bisogno d’aiuto. Dimmi, chi sono?
 Daleos?chiusi "Non posso dirtelo io. Devi saperlo tu
@@ -487,14 +519,28 @@ Daleos?aperti "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò
 -> GIORNO
 
 = GIORNO
+
+-> casa_ambizia2
+
+= casa_ambizia2
+
 Narratore?chiusi "Ma passato un singolo giorno decide di arrendersi ai patti del demone. Li avrebbe accettati tutti.
 Narratore?aperti "Non riusciva più a vivere una vita così. Ormai non si fidava di nessuno, era insicuro di se stesso e non aveva ricordi del passato. L’uomo fu costretto cosí di tornare una quarta volta dal demone.
+
+-> porto3
+
+= porto3
 
 Narratore?aperti "L’uomo con tono addolorato chiamò il demone una quarta volta: 
 Uomo_Ambizia?triste "Delos... Daleos, ti scongiuro, dove sei...
 Daleos?chiusi "Dimmi, che succede
 Uomo_Ambizia?occhi "Ho perso tutto..., ti posso offrire qualsiasi cosa
 Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* “devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
+
+-> sfondodialogo2
+
+= sfondodialogo2
+
 
 * Firma
 -> FIRMA
@@ -517,8 +563,17 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima
 L’uomo non accetta la proposta del demone
 
 L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifiutare e aspettare che il demone se ne vada. 
+
+-> porto4
+
+= porto4
+
 Il demone decide di pensare a un secondo patto e di quindi proporlo nuovamente all’avventuriero ambizioso, e gli propone: 
 DALEOS "se io ti dono un grado nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
+
+-> sfondodialogo3
+
+= sfondodialogo3
 
 * Accetta
 -> ACCETTA
@@ -531,6 +586,10 @@ L’uomo rifiuta nuovamente il patto e decide di andarsene.
 L’uomo annuisce alla proposta che il demone gli fece, diventando un
 vigliacco ma allo stesso tempo ricoprendo il ruolo di Generale al servizio della corna.
 
+-> villaggio1
+
+= villaggio1
+
 Narratore?aperti "Durante una sera, mentre l’uomo organizzava le varie strategie con i possibili conflitti con le capitali confinanti, un altro graduato della forza militare pianificava un tradimento. 
 
 Narratore?CHIUSI "Il Tenente, studiando i comportamenti del Generale riconosce in lui un carattere pavido e approfittando di questa sua debolezza escogita un modo per poter prendere il suo posto e sbarazzarsi della concorrenza mettendolo in cattiva luce. 
@@ -540,6 +599,11 @@ Narratore?aperti "Il Tenente riferisce al Re dell’improvvisa scalata di potere
 
 
 = CONTROBBATTERE_PRIMO_PATTO
+
+-> porto5
+
+= porto5
+
 L’uomo cerca di convincere il demone a stipulare un patto più ragionevole
 
 L’uomo, non convito del patto che gli propone il demone, decide di controbattere con un nuovo patto formulato da lui stesso, e gli disse: 
@@ -552,6 +616,10 @@ Daleos?aperti "Io non me ne faccio nulla dei tuoi beni materiali! O proponi un b
 
 L’uomo rimase in silenzio e non avendo nulla da offrire al demone, lo cacciò via. 
 Il demonE gli richiese con più gentilezza se vuole accettare o rifiutare il patto iniziale.
+
+-> sfondodialogo4
+
+= sfondodialogo4
 
 * Accettare
 -> TORNA_DAL_DEMONE
