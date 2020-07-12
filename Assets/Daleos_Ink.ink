@@ -78,12 +78,12 @@ Narratore?aperti "Disperata andò a chiedere al demone se la poteva aiutare.
 = porto
 
 Donna?occhi "Ascoltami Daleos, sono qui per chiederti aiuto
-Demone?chiusi "Ti ascolto, sussurrami cosa tormenta la tua povera anima
+Daleos?chiusi "Ti ascolto, sussurrami cosa tormenta la tua povera anima
 Donna?triste "Mio figlio... mio figlio è malato e nessuno riesce a salvarlo
-Demone?chiusi "Lo so
+Daleos?chiusi "Lo so
 Donna?normale "Come fai a saperlo
-Demon'chiusi "Io so tutto di questo insulso mondo...
-Demone?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio guarirà. In cambio esigo la tua possibilità d’amare
+Daleos?chiusi "Io so tutto di questo insulso mondo...
+Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio guarirà. In cambio esigo la tua possibilità d’amare
 
  -> sfondodialogo
  
@@ -123,7 +123,7 @@ Demone?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
     = Porto
 
 Donna?triste "La medicina non ha funzionato
-Demone?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambio esigo la tua felicità
+Daleos?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambio esigo la tua felicità
 
  -> Sfondodialogo
  
@@ -150,8 +150,12 @@ Demone?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambi
     
 // Terzo patto
 
+-> POrto
+    
+= POrto
+
 Donna?arrabbiata "L’amuleto, come la medicina che mi hai dato, non ha funzionato!
-Demone?aperti “capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. Tu dovrai darmi la tua anima ed io guarirò, grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
+Daleos?aperti “capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. Tu dovrai darmi la tua anima ed io guarirò, grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
 
 Il demone porge alla donna il foglio con il patto:
 
