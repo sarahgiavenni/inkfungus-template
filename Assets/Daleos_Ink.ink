@@ -49,7 +49,108 @@ Narratore?aperti "Quale storia vuoi affrontare questa volta?
 
 // Prima Storia
 === FORTUNA ===
-Ciao come va?
+
+// Introduzione alla storia
+
+.
+
+-> casa_fortuna
+
+= casa_fortuna
+
+Narratore?aperti "Un uomo benestante ha vissuto la sua vita con la propria famiglia nella città alta di khora, 
+
+-> porto0
+
+= porto0
+
+Narratore?chiusi "Durante la sera però era solito a giocare a dadi nella città sottostante
+Narratore?aperti "L’uomo era molto fortunato, e grazie ad essa riuscì ad aumentare la propria ricchezza, ma con il passare del tempo la fortuna lo abbandonò iniziando ad indebitarsi con dei 
+Narratore?aperti "Malavitosi locali. 
+Narratore?aperti "L’uomo ormai sul lastrico, sfortunato ed indebitato chiese aiuto al demone. 
+
+-> porto
+
+= porto
+
+Uomo_Fortuna?triste "Daleos, demone... sei qui?
+Daleos?chiusi "Ma certo, dimmi pover uomo, cose turba la tua splendida anima
+Uomo_Fortuna?triste "Ho bisogno d’aiuto
+Daleos?chiusi "Ma certo, cosa più ti aggrada, narrami
+Uomo_Fortuna?occhi "Ho bisogno di soldi... tanti soldi”
+Daleos?aperti "Soldi eh? Ma certamente! Io ti offro la cifra che tu desideri, ma io in cambio esigo la tua speranza
+
+-> sfondodialogo
+ 
+ = sfondodialogo
+ 
+ * accettare il primo patto
+ L’uomo ottiene i soldi che lui desiderava, ma essendo ormai un giocatore incallito e senza scrupoli, decide di tentare la fortuna un ultima volta cercando di triplicare la somma appena ottenuta. Ma la dea bendata sembra averlo 
+ abbandonato completamente perdendo tutti i soldi da poco ottenuti, così è costretto a tornare dal demone.
+ -> secondo_patto_fortuna
+ 
+ * rifiutare il primo patto
+ L’uomo, che non si fida del demone, decise di lasciarlo perdere. Si voltò e se ne andò, ma il demone furbo gli propone un secondo patto, e disse: 
+ Daleos?aperti "Al posto della tua speranza io voglio la tua gentilezza, accetti?
+ 
+ ** accettare la scelta
+ L’uomo accetta la seconda proposta
+ -> secondo_patto_fortuna
+ ** rifiutare la scelta
+ L’uomo se ne va, lasciando il demone 
+ -> Scelte
+ 
+ * dubitare il primo patto
+ L’uomo dubita della proposta che gli ha fatto il demone
+ Ormai abituato a trattare con giocatori bugiardi e facce da poker, riconosce l’inganno e gli disse:
+ Uomo_Fortuna?arrabbiato "Senti demone, saró sfortunato, ma mica sciocco, facciamo così al posto della mia speranza io ti offro la mia gentilezza!
+ Il demone accetta e trona nel suo mondo
+ -> secondo_patto_fortuna
+
+-> secondo_patto_fortuna
+
+= secondo_patto_fortuna
+
+// Secondo patto
+
+Narratore?aperti "L'uomo, torna nella sua taverna e decise di spendere tutti i suoi soldi. Un figura losca mette sul piatto un amuleto. La fortuna dell'uomo lo aveva riaccolto e riesce a portarsi a casa il suo nuovo tesoro
+
+-> casa_fortuna2
+
+= casa_fortuna2
+
+Narratore?aperti "Una volta tornato a casa si accorge che è un amuleto magico, ma ormai non ha molto da perdere, ha appena visto un demone e dissicuro un oggettino qualunque non lo spaventa
+
+-> sfondodialogo2
+ 
+ = sfondodialogo2
+ 
+ 
+Narratore?aperti "L'uomo, ormai senza più timore, decise di tenersi l'amuleto al collo e di portarlo ovunque lui andava.
+Narratore?aperti "Era come se questa collana avvesse il potere di mantenere l'uomo accanto a se.
+Narratore?chiusi "l'amuleto sta mangiando sempre di più il pover uomo facendolo diventare consumato e introverso.
+Narratore?aperti "Ormai questo amuleto era diventato tutto per l'uomo, e piano piano, senza che quest'ultimo se ne accorga, sta diventando un nuovo demone
+
+* Sostituendo
+- 
+* Il 
+-
+* Nostro
+-
+* Caro
+-
+* Daleos
+-> Scelte
+
+
+
+
+
+
+
+
+
+
 -> Scelte
 
 // Seconda Storia
@@ -121,7 +222,6 @@ Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
 
 // Secondo Patto 
 
-// DA SISTEMARE CON ESPRESSIONI E IMMAGINI + CONTROLLARE CHE FUNZIONI
 
     La donna chiama il demone, ed esso si presenta proponendole un Secondo patto.
 
