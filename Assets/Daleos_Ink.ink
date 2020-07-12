@@ -408,19 +408,18 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 === AMBIZIA ===
 
 
-Un uomo povero, che ormai non ha più nulla da perdere, di nome (inserire nome) e che vive nella
-città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare un
-ricco proprietario di terreni della città. Ma non essendo nessuno, non riuscirà mai ad avverare il
+Narratore?aperti "Un uomo povero, che ormai non ha più nulla da perdere e che vive nella città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare un ricco proprietario di terreni della città. 
+Narratore?aperti "Ma non essendo nessuno, non riuscirà mai ad avverare il
 suo desiderio a meno che non si rivolga al demone.
 
 UOMO "Demone mostrati! Dove sei?!
-DALEOS "Dimmi mortale, perché cerchi il mio consiglio
+Daleos?chiusi "Dimmi mortale, perché cerchi il mio consiglio
 UOMO "voglio il potere”
-DALEOS "(ridacchiando) Io non posso darti il potere così dal nulla, ma se vuoi possiamo fare un patto
+Daleos?chiusi "(ridacchiando) Io non posso darti il potere così dal nulla, ma se vuoi possiamo fare un patto
 UOMO "Che tipo di patto?
-DALEOS "Se tu mi dai i tuoi ricordi più cari, io posso iniziarti ad arricchire dandoti una somma in denaro
+Daleos?chiusi "Se tu mi dai i tuoi ricordi più cari, io posso iniziarti ad arricchire dandoti una somma in denaro
 UOMO "sì facendo il mio nome sarà conosciuto ovunque?
-DALEOS "Questo è tutto da vedere
+Daleos?aperti "Questo è tutto da vedere
 
 * ACCETTARE PRIMO PATTO
 -> ACCETTARE_PRIMO_PATTO
@@ -433,11 +432,9 @@ DALEOS "Questo è tutto da vedere
 = ACCETTARE_PRIMO_PATTO
 
 L’uomo si arricchisce ma perde completamente i suoi ricordi
-L’uomo ottiene i soldi che lui desiderava e quindi anche quel poco di fama che bramava. Ma
-un giorno spese tutti i suoi soldi in spese superflue che lo fecero andare sul lastrico. Aver
-perso i soldi voleva dire perdere il nome e quindi per poco di fama che si era guadagnato con
-le ricchezze che aveva, erano andate perdute. L’uomo irritato decise di tornare dal demone
-una seconda volta
+Narratore?aperti "L’uomo ottiene i soldi che lui desiderava e quindi anche quel poco di fama che bramava. 
+Narratore?chiusi "Ma un giorno spese tutti i suoi soldi in spese superflue che lo fecero andare sul lastrico. 
+Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per poco di fama che si era guadagnato con le ricchezze che aveva, erano andate perdute. L’uomo irritato decise di tornare dal demone una seconda volta
 
 * TORNA DAL DEMONE
 -> TORNA_DAL_DEMONE
@@ -445,23 +442,23 @@ una seconda volta
 = TORNA_DAL_DEMONE
 
 UOMO "Daleos! Dove sei maledetto demone!
-DALEOS "Dimmi" *sorridendo* che succede?
+Daleos?chiusi "Dimmi" *sorridendo* che succede?
 UOMO "Questo maledetto patto.. MI HAI MENTITO!
-DALEOS "Non posso aiutarti se non mi dici che cosa ti turba
+Daleos?chiusi "Non posso aiutarti se non mi dici che cosa ti turba
 UOMO "Con quel tuo patto mi hai reso ancora più povero
-DALEOS" Mhhh, e cosa vuoi che faccia?
+Daleos?chiusi "Mhhh, e cosa vuoi che faccia?
 UOMO" Aiutami, razza di demone che non sei altro, fai il tuo lavoro!
 
 Daleos ci pensò un poco sù, e decise di offrirgli un secondo patto.
 
-DALEOS" Ma certo che t’aiuto. La cosa è semplice: te mi darai la tu sicurezza, il tuo essere spavaldo, e io di dono non più soldi ma ben sì un oggetto talmente riconosciuto in tutto il mondo che diventerai famoso.
+Daleos?chiusi "Ma certo che t’aiuto. La cosa è semplice: te mi darai la tu sicurezza, il tuo essere spavaldo, e io di dono non più soldi ma ben sì un oggetto talmente riconosciuto in tutto il mondo che diventerai famoso.
 UOMO" E che oggetto sarebbe, fammi vedere
 
 Daleos dalla sua tasca nascosta sotto l’acqua, tira fuori una moneta.
 
-DALEOS" Ecco
+Daleos?chiusi "Ecco
 UOMO "E quella che sarebbe? Un misera moneta? Che me ne faccio?
-DALOES "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
+Daleos?aperti "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
 
 * ACCETTARE  SECONDO PATTO
 -> ACCETTARE_SECONDO_PATTO
@@ -479,26 +476,26 @@ L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha ap
  * TORNA DAL DEMONE
  L’uomo tornò dal demone una terza volta
  
-DALEOS "Oooh pover uomo, vieni, avvicinati, e raccontami cosa desideri
+Daleos?chiusi "Oooh pover uomo, vieni, avvicinati, e raccontami cosa desideri
 UOMO "Non so chi sono, ho bisogno d’aiuto. Dimmi, chi sono?
-DALEOS "Non posso dirtelo io. Devi saperlo tu
+Daleos?chiusi "Non posso dirtelo io. Devi saperlo tu
 UOMO "Ti prego demone” mettendosi in ginocchio “aiutami
-DALOES "Ma certo, ti propongo un’altro patto..
+Daleos?chiusi "Ma certo, ti propongo un’altro patto..
 UOMO "*interrompendo il demone* si dimmi tutto, basta che mi aiuti
-DALEOS "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò farti sentire meglio dandoti delle risposte
+Daleos?aperti "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò farti sentire meglio dandoti delle risposte
 -
 * L'UOMO ORMAI ESSENDO INSICURO ACCETTA
 -> GIORNO
 
 = GIORNO
-Ma passato un singolo giorno decide di arrendersi ai patti del demone. Li avrebbe accettati tutti.
-Non riusciva più a vivere una vita così. Ormai non si fidava di nessuno, era insicuro di se stesso e non aveva ricordi del passato. L’uomo fu costretto cosí di tornare una quarta volta dal demone.
+Narratore?chiusi "Ma passato un singolo giorno decide di arrendersi ai patti del demone. Li avrebbe accettati tutti.
+Narratore?aperti "Non riusciva più a vivere una vita così. Ormai non si fidava di nessuno, era insicuro di se stesso e non aveva ricordi del passato. L’uomo fu costretto cosí di tornare una quarta volta dal demone.
 
-L’uomo con tono addolorato chiamò il demone una quarta volta: 
+Narratore?aperti "L’uomo con tono addolorato chiamò il demone una quarta volta: 
 UOMO "Delos... Daleos, ti scongiuro, dove sei...
-DALEOS "Dimmi, che succede
+Daleos?chiusi "Dimmi, che succede
 UOMO "Ho perso tutto..., ti posso offrire qualsiasi cosa
-DALEOS "Posso aiutarti io” *facendo apparire il contratto* “devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
+Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* “devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
 
 * FIRMA
 -> FIRMA
@@ -520,10 +517,9 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima
 = RIFIUTA_PRIMO_PATTO
 L’uomo non accetta la proposta del demone
 
-L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifiutare e aspettare
-che il demone se ne vada. Il demone decide di pensare a un secondo patto e di quindi
-proporlo nuovamente all’avventuriero ambizioso, e gli propone: “se io ti dono un grado
-nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
+L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifiutare e aspettare che il demone se ne vada. 
+Il demone decide di pensare a un secondo patto e di quindi proporlo nuovamente all’avventuriero ambizioso, e gli propone: 
+DALEOS "se io ti dono un grado nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
 
 * ACCETTA
 -> ACCETTA
@@ -536,11 +532,10 @@ L’uomo rifiuta nuovamente il patto e decide di andarsene.
 L’uomo annuisce alla proposta che il demone gli fece, diventando un
 vigliacco ma allo stesso tempo ricoprendo il ruolo di Generale al servizio della corna.
 
-Durante una sera, mentre l’uomo organizzava le varie strategie con i possibili conflitti con le capitali confinanti, un altro graduato della forza militare pianificava un tradimento. 
+Narratore?aperti "Durante una sera, mentre l’uomo organizzava le varie strategie con i possibili conflitti con le capitali confinanti, un altro graduato della forza militare pianificava un tradimento. 
 
-Il Tenente, studiando i comportamenti del Generale riconosce in lui un
-carattere pavido e approfittando di questa sua debolezza escogita un modo per poter prendere il suo posto e sbarazzarsi della concorrenza mettendolo in cattiva luce. 
-Il Tenente riferisce al Re dell’improvvisa scalata di potere del nuovo Generale, e il Re inizia a dubitare dei piani militari che il Generale proponeva prima di combattere, accusandolo di un colpo di stato e che quindi condannandolo a morte.
+Narratore?CHIUSI "Il Tenente, studiando i comportamenti del Generale riconosce in lui un carattere pavido e approfittando di questa sua debolezza escogita un modo per poter prendere il suo posto e sbarazzarsi della concorrenza mettendolo in cattiva luce. 
+Narratore?aperti "Il Tenente riferisce al Re dell’improvvisa scalata di potere del nuovo Generale, e il Re inizia a dubitare dei piani militari che il Generale proponeva prima di combattere, accusandolo di un colpo di stato e che quindi condannandolo a morte.
 -> Scelte
 
 
@@ -554,7 +549,7 @@ UOMO "Se io dono i miei averi più cari, tu mi fai diventare famoso.
 
 Il demone irritato dalla sua arroganza gli rispose: 
 
-DALEOS: "Io non me ne faccio nulla dei tuoi beni materiali! O proponi un buon patto che posso accettare oppure ti puoi arrangiare. 
+Daleos?aperti "Io non me ne faccio nulla dei tuoi beni materiali! O proponi un buon patto che posso accettare oppure ti puoi arrangiare. 
 
 L’uomo rimase in silenzio e non avendo nulla da offrire al demone, lo cacciò via. 
 Il demonE gli richiese con più gentilezza se vuole accettare o rifiutare il patto iniziale.
