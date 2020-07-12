@@ -198,7 +198,7 @@ Uomo_Fortuna?normale "Daleos, accentando il tuo patto, ho perso tutta la mia gen
 
 Daleos sentendosi invocato decise di aiutare una seconda volta il pover uomo
 
-Daleos?aperti"ma certo che ti aiuto, dammi la tua fortuna ed io ti posso togliere i tuoi debiti
+Daleos?aperti "Ma certo che ti aiuto, dammi la tua fortuna ed io ti posso togliere i tuoi debiti
 
 -> sfondodialogo4
 
@@ -236,13 +236,17 @@ Narratore?chiusi "L'uomo {durante il suo cammino trova un amuleto, lo raccogle e
 Narratore?aperti "Una volta tornato a casa si accorge che è un amuleto magico, ma ormai non ha molto da perdere, ha appena visto un demone e dissicuro un oggettino qualunque non lo spaventa
 
 Narratore?chiusi "L'uomo, ormai senza più timore, decise di tenersi l'amuleto al collo e di portarlo ovunque lui andava.
-Narratore?aperti Era come se questa collana avvesse il potere di mantenere l'uomo accanto a se
+Narratore?aperti "Era come se questa collana avvesse il potere di mantenere l'uomo accanto a se
 * Passarono settimane
 -> SETTIMANE
 
 = SETTIMANE
 Narratore?aperti "L'amuleto sta mangiando sempre di più il pover uomo facendolo diventare consumato e introverso.
 Narratore?aperti "Ormai questo amuleto era diventato tutto per l'uomo, e piano piano, senza che quest'ultimo se ne accorga, sta diventando un nuovo demone
+
+-> sfondodialogo5
+
+= sfondodialogo5
 
 * SOSTITUENDO
 -
