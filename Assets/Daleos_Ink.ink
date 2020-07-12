@@ -57,7 +57,6 @@ Ciao come va?
 
 // Introduzione alla storia
 
-
 -> villaggio
 
 = villaggio 
@@ -94,8 +93,11 @@ Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
  
  = sfondodialogo
  
-    * accettare il primo patto
-    La donna ottiene la medicina e corre alla sua dimora per poter dar l’antidoto al proprio figlio. La medicina inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal demone.
+    * accettare il primo patto  
+    La donna ottiene la medicina. 
+    Corre alla sua dimora per poter dar l’antidoto al proprio figlio. La medicina
+    inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal
+    demone.
     -> secondo_patto_malattia
     
     * rifiutare il primo patto
@@ -104,7 +106,7 @@ Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
     Demone "La medicina in cambio della tua bellezza
     
     *** accetta scelta
-    La donna diventa inguardabile ma ottiene la medicina
+    La donna diventa inguardabile ma ottiene la medicina.
     Corre alla sua dimora per poter dare l'antidoto al proprio figlio. 
     La medicina inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal demone.
     -> secondo_patto_malattia
