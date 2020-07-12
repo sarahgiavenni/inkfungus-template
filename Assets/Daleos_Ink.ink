@@ -155,7 +155,7 @@ Daleos?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambi
 = POrto
 
 Donna?arrabbiata "L’amuleto, come la medicina che mi hai dato, non ha funzionato!
-Daleos?aperti “capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. Tu dovrai darmi la tua anima ed io guarirò, grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
+Daleos?aperti "capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. Tu dovrai darmi la tua anima ed io guarirò, grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
 
 Il demone porge alla donna il foglio con il patto:
 
@@ -179,10 +179,10 @@ Il demone porge alla donna il foglio con il patto:
 
 Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 
-* Aiuta la donna salvando il figlio, infine torna nel suo mondo
+* Aiuta la donna
 -> Scelte
 
-* Torna nel tuo mondo, con lo stomaco pieno senza aiutare la donna
+* Torna nel tuo mondo
 -> Scelte
 
  
