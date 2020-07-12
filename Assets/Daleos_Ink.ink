@@ -64,6 +64,11 @@ Ciao come va?
 
 //Dialogo 1
 Narratore?aperti "Una donna decise di trasferirsi insieme alla sua famiglia in un piccolo borgo della cittadina di Khora.
+
+-> casadonna
+
+= casadonna
+
 Narratore?aperti "La famiglia dopo il trasferimento vivono una vita tranquilla e felice fino al fatidico giorno: il figlio si ammala di un malessere sconosciuto.
 
 -> stanzafigliodonna
@@ -116,7 +121,7 @@ Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
 
 // DA SISTEMARE CON ESPRESSIONI E IMMAGINI + CONTROLLARE CHE FUNZIONI
 
-    La donna chiama il demone, ed esso si presenta porponendole un Secondo patto.
+    La donna chiama il demone, ed esso si presenta proponendole un Secondo patto.
 
     -> Porto
     
