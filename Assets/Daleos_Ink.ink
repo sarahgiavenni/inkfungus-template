@@ -260,8 +260,7 @@ Narratore?aperti "Ormai questo amuleto era diventato tutto per l'uomo, e piano p
 
 -> Scelte
 
-
-
+ ////////////////////////////////////////////////////////////////////////////////////
 
 // Seconda Storia
 === MALATTIA ===
@@ -402,7 +401,7 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 * Torna nel *uo mondo
 -> Scelte
 
- 
+ ////////////////////////////////////////////////////////////////////////////////////
 
 // Terza Storia
 === AMBIZIA ===
@@ -421,11 +420,11 @@ Daleos?chiusi "Se tu mi dai i tuoi ricordi più cari, io posso iniziarti ad arri
 Uomo_Ambizia?normale "sì facendo il mio nome sarà conosciuto ovunque?
 Daleos?aperti "Questo è tutto da vedere
 
-* ACCETTARE PRIMO PATTO
+* Accettare primo patto
 -> ACCETTARE_PRIMO_PATTO
-* RIFIUTARE PRIMO PATTO
+* Rifiutare primo patto
 -> RIFIUTA_PRIMO_PATTO
-* CONTROBBATTERE PRIMO PATTO
+* Ccontrobbattere primo patto
 -> CONTROBBATTERE_PRIMO_PATTO
 
 
@@ -436,7 +435,7 @@ Narratore?aperti "L’uomo ottiene i soldi che lui desiderava e quindi anche que
 Narratore?chiusi "Ma un giorno spese tutti i suoi soldi in spese superflue che lo fecero andare sul lastrico. 
 Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per poco di fama che si era guadagnato con le ricchezze che aveva, erano andate perdute. L’uomo irritato decise di tornare dal demone una seconda volta
 
-* TORNA DAL DEMONE
+* Torna dal demone
 -> TORNA_DAL_DEMONE
 
 = TORNA_DAL_DEMONE
@@ -460,10 +459,10 @@ Daleos?chiusi "Ecco
 Uomo_Ambizia?arrabbiato "E quella che sarebbe? Un misera moneta? Che me ne faccio?
 Daleos?aperti "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
 
-* ACCETTARE  SECONDO PATTO
+* Accettare secondo patto
 -> ACCETTARE_SECONDO_PATTO
 
-* RIFIUTARE SECONDO PATTO
+* Rifiutare secondo patto
 L’uomo rifiuta, per lui l’unica cosa che lo fa tirare avanti è la sicurezza in se stesso
 L’uomo ragiona e non accetta il patto, l’unica cosa che non vuole perdere è proprio la sua sicurezza, rifiuta completamente di rivedere il demone. Si girò dando le spalle a Daleos e se ne andò.
 -> Scelte
@@ -473,7 +472,7 @@ L’uomo ragiona e non accetta il patto, l’unica cosa che non vuole perdere è
 L’uomo accetta, ormai è insicuro di qualsiasi cosa che fa e farà, ma almeno ha ottenuto l’amuleto
 L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. Queste erano le frasi che tormentavano la testa dell’uomo. Ed insicuro, anche di se stesso, decise di tornare una terza volta da demone
  
- * TORNA DAL DEMONE
+ * Torna dal demone
  L’uomo tornò dal demone una terza volta
  
 Daleos?chiusi "Oooh pover uomo, vieni, avvicinati, e raccontami cosa desideri
@@ -484,7 +483,7 @@ Daleos?chiusi "Ma certo, ti propongo un’altro patto..
 Uomo_Ambizia?occhi "*interrompendo il demone* si dimmi tutto, basta che mi aiuti
 Daleos?aperti "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò farti sentire meglio dandoti delle risposte
 -
-* L'UOMO ORMAI ESSENDO INSICURO ACCETTA
+* L'uomo essendo insicuro, accetta
 -> GIORNO
 
 = GIORNO
@@ -497,18 +496,18 @@ Daleos?chiusi "Dimmi, che succede
 Uomo_Ambizia?occhi "Ho perso tutto..., ti posso offrire qualsiasi cosa
 Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* “devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
 
-* FIRMA
+* Firma
 -> FIRMA
-* RIFIUTARE TERZO PATTO
+* Rifiuta terzo patto
 Il demone la convince: “fidati di me”. L’uomo, ormai consumato, é costretto ad accettare
 -> FIRMA
 
 = FIRMA
 Il demone, appena la vittima firma il suo contratto, mangiò la sua anima
 
-* AIUTA L'UOMO
+* Aiuta l'uomo
 -> Scelte
-* TORNA NEL *UO MONDO
+* Torna nel *uo mondo
 -> Scelte
 
 
@@ -521,9 +520,9 @@ L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifi
 Il demone decide di pensare a un secondo patto e di quindi proporlo nuovamente all’avventuriero ambizioso, e gli propone: 
 DALEOS "se io ti dono un grado nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
 
-* ACCETTA
+* Accetta
 -> ACCETTA
-* RIFIUTA
+* Rifiuta
 L’uomo rifiuta nuovamente il patto e decide di andarsene.
 -> Scelte
 
@@ -554,9 +553,9 @@ Daleos?aperti "Io non me ne faccio nulla dei tuoi beni materiali! O proponi un b
 L’uomo rimase in silenzio e non avendo nulla da offrire al demone, lo cacciò via. 
 Il demonE gli richiese con più gentilezza se vuole accettare o rifiutare il patto iniziale.
 
-* ACCETTARE
+* Accettare
 -> TORNA_DAL_DEMONE
-* RIFIUTARE
+* Rifiutare
 L’uomo, troppo orgoglioso per accettare il patto, lo rifiuta e caccia via il demone una seconda volta.
 -> Scelte
 
