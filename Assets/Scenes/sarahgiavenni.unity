@@ -1018,6 +1018,33 @@ GameObject:
   - component: {fileID: 141909419}
   - component: {fileID: 141909420}
   - component: {fileID: 141909421}
+  - component: {fileID: 141909448}
+  - component: {fileID: 141909447}
+  - component: {fileID: 141909446}
+  - component: {fileID: 141909445}
+  - component: {fileID: 141909444}
+  - component: {fileID: 141909443}
+  - component: {fileID: 141909442}
+  - component: {fileID: 141909441}
+  - component: {fileID: 141909440}
+  - component: {fileID: 141909439}
+  - component: {fileID: 141909423}
+  - component: {fileID: 141909424}
+  - component: {fileID: 141909438}
+  - component: {fileID: 141909437}
+  - component: {fileID: 141909436}
+  - component: {fileID: 141909435}
+  - component: {fileID: 141909434}
+  - component: {fileID: 141909433}
+  - component: {fileID: 141909432}
+  - component: {fileID: 141909431}
+  - component: {fileID: 141909430}
+  - component: {fileID: 141909429}
+  - component: {fileID: 141909428}
+  - component: {fileID: 141909427}
+  - component: {fileID: 141909426}
+  - component: {fileID: 141909425}
+  - component: {fileID: 141909422}
   m_Layer: 0
   m_Name: audio Flowchart
   m_TagString: Untagged
@@ -1074,7 +1101,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 59
     y: 71
-    width: 232.7585
+    width: 229.452
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1098,11 +1125,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -6.514225, y: -16.46554}
+  scrollPos: {x: -310.92963, y: 6.9067545}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.5800004
+  zoom: 0.73000026
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1110,8 +1137,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 141909419}
-  selectedCommands: []
+  - {fileID: 141909423}
+  selectedCommands:
+  - {fileID: 141909422}
   variables: []
   description: 
   stepPause: 0
@@ -1186,7 +1214,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395
     y: 67
-    width: 215.51712
+    width: 217.12323
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1246,7 +1274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.5648
     y: 441.01474
-    width: 177.58612
+    width: 177.39722
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1306,7 +1334,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 404.6763
     y: 385.7613
-    width: 231.03436
+    width: 229.452
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1366,7 +1394,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.65338
     y: 283.62296
-    width: 181.0344
+    width: 181.5068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1426,7 +1454,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 402.08212
     y: 240.76596
-    width: 229.31023
+    width: 228.08212
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1486,7 +1514,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 418.3679
     y: 197.3372
-    width: 179.31026
+    width: 180.13695
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1546,7 +1574,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 393.1459
     y: 154.33739
-    width: 227.58609
+    width: 225.3424
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1606,7 +1634,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 418
     y: 111.93207
-    width: 181.0344
+    width: 181.5068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1666,7 +1694,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 420.55783
     y: 336.26303
-    width: 186.2068
+    width: 186.98625
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1689,7 +1717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 24
+  itemId: 84
   indentLevel: 0
   musicClip: {fileID: 8300000, guid: 51a42585d89ac24489998d34215f573b, type: 3}
   atTime: 0
@@ -1726,7 +1754,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 452.5434
     y: 717.2653
-    width: 182.75853
+    width: 181.5068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1786,7 +1814,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 412.80438
     y: 817.03125
-    width: 231.03436
+    width: 229.452
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1846,7 +1874,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 444.34525
     y: 770.3973
-    width: 181.0344
+    width: 181.5068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1906,7 +1934,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 419.73996
     y: 660.3151
-    width: 232.7585
+    width: 230.82185
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1966,7 +1994,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 430.3155
     y: 595.7703
-    width: 189.65508
+    width: 188.35611
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2026,7 +2054,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 402.72507
     y: 539.4197
-    width: 232.7585
+    width: 230.82185
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2086,7 +2114,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 431.21088
     y: 489.8003
-    width: 182.75853
+    width: 182.87666
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2113,7 +2141,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 451.44504
     y: 872.0603
-    width: 187.93094
+    width: 188.35611
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2173,7 +2201,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 74.714264
     y: 132.42856
-    width: 201.72403
+    width: 197.94516
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2217,6 +2245,546 @@ MonoBehaviour:
   parentBlock: {fileID: 141909419}
   suppressBlockAutoSelect: 0
   message: ink at Scelte.sfondodialogo
+--- !u!114 &141909422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 79
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 42b3290ac6cf03248a1377e587dc5bdb, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909423
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 726.92834
+    y: 442.30847
+    width: 229.452
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 83
+  blockName: sfondo patto 3 (Copy)
+  description: 
+  eventHandler: {fileID: 141909424}
+  commandList:
+  - {fileID: 141909422}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909424
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909423}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.SFondodialogo
+--- !u!114 &141909425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 78
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 6d360054fbb9b2e46b269d9dad38a033, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 77
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 6d360054fbb9b2e46b269d9dad38a033, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 76
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: bf7da86bf7e90c2488599278588c6e8f, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 75
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: bf7da86bf7e90c2488599278588c6e8f, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909429
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 74
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: bf7da86bf7e90c2488599278588c6e8f, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909430
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 73
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: cd18592ee20729944a9ec96806d154fa, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909431
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 72
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: cd18592ee20729944a9ec96806d154fa, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909432
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 71
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 3f4362f17c090b24cb4853de7bcab0fd, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &141909433
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909434}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.casadonna
+--- !u!114 &141909434
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 736.38403
+    y: 496.8493
+    width: 207.5342
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 30
+  blockName: casadonna (Copy)
+  description: 
+  eventHandler: {fileID: 141909433}
+  commandList:
+  - {fileID: 141909430}
+  suppressAllAutoSelections: 1
+--- !u!114 &141909435
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909436}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.Porto
+--- !u!114 &141909436
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 739.44354
+    y: 232.05049
+    width: 177.39722
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 25
+  blockName: sfondo Porto (Copy)2
+  description: 
+  eventHandler: {fileID: 141909435}
+  commandList:
+  - {fileID: 141909428}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909437
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909438}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.POrto
+--- !u!114 &141909438
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 738.8004
+    y: 281.85077
+    width: 180.13695
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 24
+  blockName: sfondo POrto (Copy)1
+  description: 
+  eventHandler: {fileID: 141909437}
+  commandList:
+  - {fileID: 141909427}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909439
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909440}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.Sfondodialogo
+--- !u!114 &141909440
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 722.5087
+    y: 382.3227
+    width: 226.71227
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 82
+  blockName: sfondo patto 2 (Copy)
+  description: 
+  eventHandler: {fileID: 141909439}
+  commandList:
+  - {fileID: 141909425}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909441
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909442}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.sfondodialogo
+--- !u!114 &141909442
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 724.6786
+    y: 332.35773
+    width: 223.97253
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 8
+  blockName: sfondo patto 1 (Copy)
+  description: 
+  eventHandler: {fileID: 141909441}
+  commandList:
+  - {fileID: 141909426}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909443
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909444}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.porto
+--- !u!114 &141909444
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 740.5531
+    y: 182.81003
+    width: 176.02734
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 6
+  blockName: sfondo porto (Copy)
+  description: 
+  eventHandler: {fileID: 141909443}
+  commandList:
+  - {fileID: 141909429}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909445
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909446}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.stanzafigliodonna
+--- !u!114 &141909446
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 707.23413
+    y: 130.65616
+    width: 243.15062
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 81
+  blockName: stanza malattia donna (Copy)
+  description: 
+  eventHandler: {fileID: 141909445}
+  commandList:
+  - {fileID: 141909431}
+  suppressAllAutoSelections: 0
+--- !u!114 &141909447
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7d417659cd54a6787f70f763950c34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 141909448}
+  suppressBlockAutoSelect: 0
+  message: ink at MALATTIA.villaggio
+--- !u!114 &141909448
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141909362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 729.0756
+    y: 71.38761
+    width: 192.4657
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 80
+  blockName: vista villaggio (Copy)
+  description: 
+  eventHandler: {fileID: 141909447}
+  commandList:
+  - {fileID: 141909432}
+  suppressAllAutoSelections: 0
 --- !u!1 &162726815
 GameObject:
   m_ObjectHideFlags: 0
@@ -6956,11 +7524,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -126.80113, y: 29.153511}
+  scrollPos: {x: 20.402266, y: 9.669787}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.7000003
+  zoom: 0.8200002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -6968,9 +7536,16 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 880283532}
-  selectedCommands:
-  - {fileID: 880283530}
+  - {fileID: 880283481}
+  - {fileID: 880283466}
+  - {fileID: 880283469}
+  - {fileID: 880283472}
+  - {fileID: 880283475}
+  - {fileID: 880283478}
+  - {fileID: 880283463}
+  - {fileID: 880283460}
+  - {fileID: 880283457}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -7048,7 +7623,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.58624
     y: 88.947784
-    width: 198.57137
+    width: 195.12192
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7111,7 +7686,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 151.8876
     y: 128.2164
-    width: 251.42848
+    width: 248.78044
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7174,7 +7749,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 183.77803
     y: 167.8139
-    width: 181.42851
+    width: 178.04875
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7237,7 +7812,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 182.66846
     y: 203.89642
-    width: 182.85709
+    width: 179.26826
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7300,7 +7875,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 180.70953
     y: 243.17047
-    width: 184.28566
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7363,7 +7938,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.20587
     y: 370.73312
-    width: 237.14278
+    width: 235.36581
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7426,7 +8001,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 164.41783
     y: 325.22128
-    width: 234.28564
+    width: 231.70728
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7489,7 +8064,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.58772
     y: 284.4669
-    width: 231.4285
+    width: 229.26825
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7552,7 +8127,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 171.71419
     y: 417.37915
-    width: 214.28564
+    width: 213.4146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7615,7 +8190,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 505.49896
     y: 836.9511
-    width: 232.85707
+    width: 231.70728
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7678,7 +8253,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 521.0019
     y: 780.79193
-    width: 217.14279
+    width: 214.63411
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7741,7 +8316,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 514.002
     y: 730.79193
-    width: 185.71423
+    width: 182.9268
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7804,7 +8379,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 509.46918
     y: 684.205
-    width: 182.85709
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7867,7 +8442,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 503.5868
     y: 638.3227
-    width: 182.85709
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7930,7 +8505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 474.52335
     y: 593.04913
-    width: 234.28564
+    width: 232.92679
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7993,7 +8568,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 500.05737
     y: 545.38153
-    width: 187.1428
+    width: 184.14632
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8056,7 +8631,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 469.908
     y: 485.3568
-    width: 234.28564
+    width: 232.92679
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8119,7 +8694,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 485.55188
     y: 437.68875
-    width: 184.28566
+    width: 181.70729
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8182,7 +8757,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 461.9959
     y: 380.96106
-    width: 232.85707
+    width: 231.70728
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8245,7 +8820,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 472.25092
     y: 288.58707
-    width: 182.85709
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8308,7 +8883,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 458.67944
     y: 241.89862
-    width: 231.4285
+    width: 230.48776
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8371,7 +8946,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 478.1599
     y: 194.3014
-    width: 181.42851
+    width: 179.26826
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8434,7 +9009,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.4455
     y: 149.00893
-    width: 225.71422
+    width: 224.39021
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8497,7 +9072,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 473.84143
     y: 96.93111
-    width: 182.85709
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8560,7 +9135,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 450.88727
     y: 48.78177
-    width: 219.99992
+    width: 217.07314
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8623,7 +9198,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 478.49347
     y: 331.23453
-    width: 182.85709
+    width: 180.48778
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12951,7 +13526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 162726820}
+  selectedFlowchart: {fileID: 141909366}
 --- !u!4 &2004922620
 Transform:
   m_ObjectHideFlags: 1
