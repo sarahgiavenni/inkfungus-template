@@ -1195,7 +1195,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 59
     y: 71
-    width: 229.452
+    width: 253.84598
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1219,21 +1219,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -706.7904, y: -320.08456}
+  scrollPos: {x: -529.3696, y: 75.14903}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.73000026
+  zoom: 0.52000046
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 141909473}
-  selectedCommands:
-  - {fileID: 141909496}
+  selectedBlocks: []
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -1308,7 +1306,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395
     y: 67
-    width: 217.12323
+    width: 228.846
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1368,7 +1366,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.5648
     y: 441.01474
-    width: 177.39722
+    width: 184.61526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1428,7 +1426,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 404.6763
     y: 385.7613
-    width: 229.452
+    width: 246.15367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1488,7 +1486,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.65338
     y: 283.62296
-    width: 181.5068
+    width: 190.38449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1548,7 +1546,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 402.08212
     y: 240.76596
-    width: 228.08212
+    width: 244.23059
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1608,7 +1606,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 418.3679
     y: 197.3372
-    width: 180.13695
+    width: 188.46141
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1668,7 +1666,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 393.1459
     y: 154.33739
-    width: 225.3424
+    width: 242.30753
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1728,7 +1726,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 418
     y: 111.93207
-    width: 181.5068
+    width: 190.38449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1788,7 +1786,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 420.55783
     y: 336.26303
-    width: 186.98625
+    width: 196.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1848,7 +1846,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 452.5434
     y: 717.2653
-    width: 181.5068
+    width: 192.30757
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1908,7 +1906,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 412.80438
     y: 817.03125
-    width: 229.452
+    width: 246.15367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1968,7 +1966,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 444.34525
     y: 770.3973
-    width: 181.5068
+    width: 190.38449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2028,7 +2026,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 419.73996
     y: 660.3151
-    width: 230.82185
+    width: 246.15367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2088,7 +2086,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 430.3155
     y: 595.7703
-    width: 188.35611
+    width: 198.0768
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2148,7 +2146,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 402.72507
     y: 539.4197
-    width: 230.82185
+    width: 246.15367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2208,7 +2206,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 431.21088
     y: 489.8003
-    width: 182.87666
+    width: 190.38449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2235,7 +2233,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 451.44504
     y: 872.0603
-    width: 188.35611
+    width: 196.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2295,7 +2293,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 74.714264
     y: 132.42856
-    width: 197.94516
+    width: 217.30754
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2373,7 +2371,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 726.92834
     y: 442.30847
-    width: 229.452
+    width: 246.15367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2574,7 +2572,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 736.38403
     y: 496.8493
-    width: 207.5342
+    width: 221.1537
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2616,7 +2614,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 739.44354
     y: 232.05049
-    width: 177.39722
+    width: 184.61526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2658,7 +2656,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 738.8004
     y: 281.85077
-    width: 180.13695
+    width: 186.53835
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2700,7 +2698,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 722.5087
     y: 382.3227
-    width: 226.71227
+    width: 242.30753
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2742,7 +2740,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 724.6786
     y: 332.35773
-    width: 223.97253
+    width: 240.38445
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2784,7 +2782,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 740.5531
     y: 182.81003
-    width: 176.02734
+    width: 184.61526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2826,7 +2824,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 707.23413
     y: 130.65616
-    width: 243.15062
+    width: 261.53827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2868,7 +2866,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 729.0756
     y: 71.38761
-    width: 192.4657
+    width: 207.69217
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2895,11 +2893,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1030.8746
     y: 516.56415
-    width: 213.01364
+    width: 230.76907
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 109
   blockName: casa_ambizia 2
   description: 
   eventHandler: {fileID: 141909451}
@@ -2908,7 +2906,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &141909450
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2970,11 +2968,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1010.20526
     y: 64.306984
-    width: 206.16432
+    width: 223.07677
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 117
   blockName: casa_ambizia
   description: 
   eventHandler: {fileID: 141909452}
@@ -3012,11 +3010,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1031.721
     y: 122.81763
-    width: 162.32874
+    width: 173.07681
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 116
   blockName: porto A
   description: 
   eventHandler: {fileID: 141909454}
@@ -3054,11 +3052,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1010.8438
     y: 178.13676
-    width: 210.27391
+    width: 228.846
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 115
   blockName: sfondodialogo A
   description: 
   eventHandler: {fileID: 141909456}
@@ -3096,11 +3094,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1024.4608
     y: 235.58359
-    width: 178.76707
+    width: 196.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 114
   blockName: villaggio A
   description: 
   eventHandler: {fileID: 141909458}
@@ -3138,11 +3136,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1036.3754
     y: 302.6048
-    width: 167.80817
+    width: 178.84604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 113
   blockName: porto A 1
   description: 
   eventHandler: {fileID: 141909460}
@@ -3180,11 +3178,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1017.0141
     y: 357.924
-    width: 215.75337
+    width: 234.61522
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 112
   blockName: sfondodialogo A 1
   description: 
   eventHandler: {fileID: 141909462}
@@ -3222,11 +3220,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1019.3129
     y: 406.98975
-    width: 211.64378
+    width: 228.846
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 111
   blockName: casa_ambizia 1
   description: 
   eventHandler: {fileID: 141909464}
@@ -3264,11 +3262,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1048.9285
     y: 465.37073
-    width: 169.17804
+    width: 180.76912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 110
   blockName: porto A 2
   description: 
   eventHandler: {fileID: 141909466}
@@ -3292,7 +3290,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.porto3
 --- !u!114 &141909469
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3324,11 +3322,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1050.7468
     y: 571.0528
-    width: 170.54791
+    width: 180.76912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 108
   blockName: porto A 3
   description: 
   eventHandler: {fileID: 141909468}
@@ -3352,7 +3350,7 @@ MonoBehaviour:
   message: 'ink at AMBIZIA.sfondodialogo2 '
 --- !u!114 &141909472
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3384,11 +3382,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1025.6506
     y: 618.15155
-    width: 219.86296
+    width: 240.38445
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 107
   blockName: sfondodialogo A 2
   description: 
   eventHandler: {fileID: 141909471}
@@ -3412,7 +3410,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.porto4
 --- !u!114 &141909475
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3444,11 +3442,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1054.8379
     y: 671.05286
-    width: 170.54791
+    width: 180.76912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 106
   blockName: porto A 4
   description: 
   eventHandler: {fileID: 141909474}
@@ -3472,7 +3470,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.sfondodialogo3
 --- !u!114 &141909478
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3504,11 +3502,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1034.5205
     y: 719.2879
-    width: 218.49309
+    width: 236.5383
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 105
   blockName: sfondodialogo A 3
   description: 
   eventHandler: {fileID: 141909477}
@@ -3532,7 +3530,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.villaggio1
 --- !u!114 &141909481
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3564,11 +3562,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1055.9993
     y: 770.1989
-    width: 184.24652
+    width: 201.92294
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 104
   blockName: villaggio A 1
   description: 
   eventHandler: {fileID: 141909480}
@@ -3592,7 +3590,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.porto5
 --- !u!114 &141909484
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3624,11 +3622,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1067.8379
     y: 818.05286
-    width: 169.17804
+    width: 180.76912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 103
   blockName: porto A 5
   description: 
   eventHandler: {fileID: 141909483}
@@ -3652,7 +3650,7 @@ MonoBehaviour:
   message: ink at AMBIZIA.sfondodialogo4
 --- !u!114 &141909487
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3684,7 +3682,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1037.5198
     y: 865.2878
-    width: 218.49309
+    width: 236.5383
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3697,7 +3695,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &141909489
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3715,7 +3713,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909490
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3733,7 +3731,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909491
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3751,7 +3749,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909492
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3769,7 +3767,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909493
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3787,7 +3785,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909494
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3805,7 +3803,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909495
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3823,7 +3821,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &141909496
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5526,7 +5524,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 952993614}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &277012617
 MonoBehaviour:
@@ -5666,56 +5664,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &303812293
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 303812294}
-  - component: {fileID: 303812295}
-  m_Layer: 0
-  m_Name: Demone
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &303812294
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 303812293}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 952993614}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &303812295
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 303812293}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nameText: Daleos
-  nameColor: {r: 0, g: 0, b: 0, a: 1}
-  soundEffect: {fileID: 0}
-  portraits: []
-  portraitsFace: 0
-  setSayDialog: {fileID: 0}
-  description: 
 --- !u!1 &320277679
 GameObject:
   m_ObjectHideFlags: 0
@@ -7823,7 +7771,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 952993614}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &651349167
 MonoBehaviour:
@@ -10609,7 +10557,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 119
   blockName: sfondodialogo A
   description: 
   eventHandler: {fileID: 880283535}
@@ -10708,7 +10656,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 118
   blockName: porto A
   description: 
   eventHandler: {fileID: 880283536}
@@ -10798,7 +10746,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 121
   blockName: porto A 1
   description: 
   eventHandler: {fileID: 880283544}
@@ -10897,7 +10845,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 120
   blockName: villaggio A
   description: 
   eventHandler: {fileID: 880283545}
@@ -10960,7 +10908,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 125
   blockName: casa_ambizia 2
   description: 
   eventHandler: {fileID: 880283548}
@@ -11023,7 +10971,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 124
   blockName: porto A 2
   description: 
   eventHandler: {fileID: 880283551}
@@ -11086,7 +11034,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 123
   blockName: casa_ambizia 1
   description: 
   eventHandler: {fileID: 880283554}
@@ -11149,7 +11097,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 122
   blockName: sfondodialogo A 1
   description: 
   eventHandler: {fileID: 880283557}
@@ -11176,7 +11124,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 128
   blockName: porto A 4
   description: 
   eventHandler: {fileID: 880283562}
@@ -11275,7 +11223,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 127
   blockName: sfondodialogo A 2
   description: 
   eventHandler: {fileID: 880283563}
@@ -11338,7 +11286,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 126
   blockName: porto A 3
   description: 
   eventHandler: {fileID: 880283566}
@@ -11365,7 +11313,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 131
   blockName: porto A 5
   description: 
   eventHandler: {fileID: 880283571}
@@ -11464,7 +11412,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 130
   blockName: villaggio A 1
   description: 
   eventHandler: {fileID: 880283572}
@@ -11527,7 +11475,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 129
   blockName: sfondodialogo A 3
   description: 
   eventHandler: {fileID: 880283575}
@@ -11554,7 +11502,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 86
+  itemId: 132
   blockName: sfondodialogo A 4
   description: 
   eventHandler: {fileID: 880283580}
@@ -11965,10 +11913,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2095431700}
-  - {fileID: 303812294}
   - {fileID: 277012616}
   - {fileID: 651349166}
   - {fileID: 996239077}
+  - {fileID: 1137152281}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -12292,7 +12240,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 952993614}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &996239078
 MonoBehaviour:
@@ -12306,7 +12254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: Daleos
+  nameText: Uomo
   nameColor: {r: 0, g: 0, b: 0, a: 1}
   soundEffect: {fileID: 0}
   portraits:
@@ -12927,6 +12875,60 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1135778988}
   m_CullTransparentMesh: 0
+--- !u!1 &1137152280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1137152281}
+  - component: {fileID: 1137152282}
+  m_Layer: 0
+  m_Name: Uomo_Ambizia
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1137152281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137152280}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 952993614}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1137152282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137152280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Uomo
+  nameColor: {r: 0, g: 0, b: 0, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 21300000, guid: d88e222a377a363478f1203750580529, type: 3}
+  - {fileID: 21300000, guid: b47693414a2bffb47904dc6ab606bf89, type: 3}
+  - {fileID: 21300000, guid: 0400433b9f9163c459a9e866e6c859fe, type: 3}
+  - {fileID: 21300000, guid: 56819d33a3ddf204883107cc02ee4a83, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
 --- !u!1 &1145834545
 GameObject:
   m_ObjectHideFlags: 0
