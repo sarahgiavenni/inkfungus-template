@@ -36,6 +36,10 @@ Narratore?aperti "ed é da qui che il nostro piccolo Daleos trova le sue vittime
 
 === Scelte ===
 
+ -> sfondodialogo
+ 
+ = sfondodialogo
+
 Narratore?aperti "Quale storia vuoi affrontare questa volta?
 
 * [La Fortuna]
@@ -139,6 +143,11 @@ L’uomo (con tono addolorato) chiamò il demone una terza volta:
 Uomo_Fortuna?triste "Delos... Daleos, ti scongiuro, dove sei...
 Daleos?chiusi "dimmi, che succede
 Uomo_Fortuna?triste "Ho perso tutto... ti prego Daleos ridammi la mia famiglia..., ti posso offrire qualsiasi cosa
+
+-> porto10
+
+= porto10
+
 Daleos?aperti "Posso barattare un’anima soltanto con un’altra anima. Se tu metti una firma qui io ti restituirò la tua famiglia
 
 -> sfondodialogo2
@@ -152,6 +161,10 @@ Daleos?aperti "Posso barattare un’anima soltanto con un’altra anima. Se tu m
 
 = FIRMA
 Il demone, appena la vittima firma il suo contratto, mangiò la sua anima
+
+-> morte
+
+= morte
 
 * Aiuta l'uomo
 -> Scelte
@@ -231,6 +244,7 @@ Il demone accetta e torna nel suo mondo.
 -> GIORNI
 
 = GIORNI
+
 Narratore?chiusi "L'uomo {durante il suo cammino trova un amuleto, lo raccogle e se lo mette al collo|torna nella sua taverna e decise di spendere tutti i suoi soldi. Un figura losca mette sul piatto un amuleto. La fortuna dell'uomo lo aveva riaccolto e riesce a portarsi a casa il suo nuovo tesoro}
 
 Narratore?aperti "Una volta tornato a casa si accorge che è un amuleto magico, ma ormai non ha molto da perdere, ha appena visto un demone e dissicuro un oggettino qualunque non lo spaventa
@@ -406,13 +420,15 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 // Terza Storia
 === AMBIZIA ===
 
+. 
+
 -> casa_ambizia
 
 = casa_ambizia
 
 Narratore?aperti "Un uomo povero, che ormai non ha più nulla da perdere e che vive nella città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare un ricco proprietario di terreni della città. 
 Narratore?aperti "Ma non essendo nessuno, non riuscirà mai ad avverare il
-suo desiderio a meno che non si rivolga al demone.
+Narratore?aperti "suo desiderio a meno che non si rivolga al demone.
 
 -> porto
 
@@ -470,13 +486,14 @@ Uomo_Ambizia?occhi " Aiutami, razza di demone che non sei altro, fai il tuo lavo
 Daleos ci pensò un poco sù, e decise di offrirgli un secondo patto.
 
 Daleos?chiusi "Ma certo che t’aiuto. La cosa è semplice: te mi darai la tu sicurezza, il tuo essere spavaldo, e io di dono non più soldi ma ben sì un oggetto talmente riconosciuto in tutto il mondo che diventerai famoso.
-Uomo_Ambizia?normale" E che oggetto sarebbe, fammi vedere
+Uomo_Ambizia?normale "E che oggetto sarebbe, fammi vedere
 
 Daleos dalla sua tasca nascosta sotto l’acqua, tira fuori una moneta.
 
 Daleos?chiusi "Ecco
 Uomo_Ambizia?arrabbiato "E quella che sarebbe? Un misera moneta? Che me ne faccio?
-Daleos?aperti "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
+Daleos?aperti "Non è una semplice moneta, ma é un amuleto. E se te lo terrai sempre dentro la tua tasca diventerai una persona ben riconosciuta in tutto io mondo. È un oggetto piccolo, 
+Daleos?aperti "è vero lo riconosco, ma vale più di mille denari. Quindi accetti o rifiuti? La mia semplice moneta per la tua sicurezza
 
 -> sfondodialogo1
 
@@ -498,7 +515,8 @@ L’uomo accetta, ormai è insicuro di qualsiasi cosa che fa e farà, ma almeno 
 
 = casa_ambizia1
 
-L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. Queste erano le frasi che tormentavano la testa dell’uomo. Ed insicuro, anche di se stesso, decise di tornare una terza volta da demone
+Narratore?aperti "L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. Queste erano le frasi che tormentavano la testa dell’uomo. 
+Narratore?aperti "Ed insicuro, anche di se stesso, decise di tornare una terza volta da demone
  
  * Torna dal demone
  L’uomo tornò dal demone una terza volta
@@ -570,7 +588,7 @@ L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifi
 = porto4
 
 Il demone decide di pensare a un secondo patto e di quindi proporlo nuovamente all’avventuriero ambizioso, e gli propone: 
-DALEOS "se io ti dono un grado nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
+Daleos?aperti "se io ti dono un grado nobiliare poco inferiore a quello del Re, tu mi dai il tuo coraggio
 
 -> sfondodialogo3
 
