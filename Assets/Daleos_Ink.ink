@@ -436,9 +436,9 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima:
 
 = casa_ambizia
 
-Narratore?aperti "Un uomo povero, che ormai non ha più nulla da perdere e che vive nella città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare un ricco proprietario di terreni della città. 
-Narratore?aperti "Ma non essendo nessuno, non riuscirà mai ad avverare il
-Narratore?aperti "suo desiderio a meno che non si rivolga al demone.
+Narratore?aperti "Un uomo povero, che ormai non ha più nulla da perdere e che vive nella città sottostante di Khora decise di intraprendere una scalata di potere per riuscir diventare 
+Narratore?aperti "un ricco proprietario di terreni della città. 
+Narratore?aperti "Ma non essendo nessuno, non riuscirà mai ad avverare il suo desiderio a meno che non si rivolga al demone.
 
 -> porto
 
@@ -474,7 +474,8 @@ Daleos?aperti "Questo è tutto da vedere
 L’uomo si arricchisce ma perde completamente i suoi ricordi
 Narratore?aperti "L’uomo ottiene i soldi che lui desiderava e quindi anche quel poco di fama che bramava. 
 Narratore?chiusi "Ma un giorno spese tutti i suoi soldi in spese superflue che lo fecero andare sul lastrico. 
-Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per poco di fama che si era guadagnato con le ricchezze che aveva, erano andate perdute. L’uomo irritato decise di tornare dal demone una seconda volta
+Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per poco di fama che si era guadagnato con le ricchezze che aveva, erano andate perdute.
+Narratore?aperti "L’uomo irritato decise di tornare dal demone una seconda volta
 
 * Torna dal demone
 -> TORNA_DAL_DEMONE
@@ -495,7 +496,8 @@ Uomo_Ambizia?occhi " Aiutami, razza di demone che non sei altro, fai il tuo lavo
 
 Daleos ci pensò un poco sù, e decise di offrirgli un secondo patto.
 
-Daleos?chiusi "Ma certo che t’aiuto. La cosa è semplice: te mi darai la tu sicurezza, il tuo essere spavaldo, e io di dono non più soldi ma ben sì un oggetto talmente riconosciuto in tutto il mondo che diventerai famoso.
+Daleos?chiusi "Ma certo che t’aiuto. La cosa è semplice: te mi darai la tu sicurezza, il tuo essere spavaldo, 
+Daleos?chiusi "e io non ti dono più soldi ma ben sì un oggetto talmente riconosciuto in tutto il mondo che diventerai famoso.
 Uomo_Ambizia?normale "E che oggetto sarebbe, fammi vedere
 
 Daleos dalla sua tasca nascosta sotto l’acqua, tira fuori una moneta.
@@ -525,7 +527,8 @@ L’uomo accetta, ormai è insicuro di qualsiasi cosa che fa e farà, ma almeno 
 
 = casa_ambizia1
 
-Narratore?aperti "L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. Queste erano le frasi che tormentavano la testa dell’uomo. 
+Narratore?aperti "L'uomo non è più sicuro di se stesso ma soprattutto della moneta che gli ha appena offerto il demone, “sarà vero? È famosa? Diventerò ricco e famoso?”. 
+Narratore?aperti "Queste erano le frasi che tormentavano la testa dell’uomo. 
 Narratore?aperti "Ed insicuro, anche di se stesso, decise di tornare una terza volta da demone
  
  * Torna dal demone
@@ -553,7 +556,8 @@ Daleos?aperti "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò
 = casa_ambizia2
 
 Narratore?chiusi "Ma passato un singolo giorno decide di arrendersi ai patti del demone. Li avrebbe accettati tutti.
-Narratore?aperti "Non riusciva più a vivere una vita così. Ormai non si fidava di nessuno, era insicuro di se stesso e non aveva ricordi del passato. L’uomo fu costretto cosí di tornare una quarta volta dal demone.
+Narratore?aperti "Non riusciva più a vivere una vita così. Ormai non si fidava di nessuno, era insicuro di se stesso e non aveva ricordi del passato. 
+Narratore?aperti "L’uomo fu costretto cosí di tornare una quarta volta dal demone.
 
 -> porto3
 
@@ -573,7 +577,9 @@ Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* devi solamen
 * Firma 
 -> FIRMA
 * Rifiuta terzo patto 
-Il demone la convince: “fidati di me”. L’uomo, ormai consumato, é costretto ad accettare
+Il demone cerca di convincerlo:
+Narratore?aperti "Fidati di me. 
+L’uomo, ormai consumato, é costretto ad accettare
 
 -> FIRMA
 
@@ -589,8 +595,6 @@ Il demone, appena la vittima firma il suo contratto, mangiò la sua anima
 
 
 = RIFIUTA_PRIMO_PATTO
-L’uomo non accetta la proposta del demone
-
 L’uomo, sorpreso dal patto che gli ha offerto il Demone Daleos, decide di rifiutare e aspettare che il demone se ne vada. 
 
 -> porto4
@@ -619,10 +623,12 @@ vigliacco ma allo stesso tempo ricoprendo il ruolo di Generale al servizio della
 
 = villaggio1
 
-Narratore?aperti "Durante una sera, mentre l’uomo organizzava le varie strategie con i possibili conflitti con le capitali confinanti, un altro graduato della forza militare pianificava un tradimento. 
-
-Narratore?CHIUSI "Il Tenente, studiando i comportamenti del Generale riconosce in lui un carattere pavido e approfittando di questa sua debolezza escogita un modo per poter prendere il suo posto e sbarazzarsi della concorrenza mettendolo in cattiva luce. 
-Narratore?aperti "Il Tenente riferisce al Re dell’improvvisa scalata di potere del nuovo Generale, e il Re inizia a dubitare dei piani militari che il Generale proponeva prima di combattere, accusandolo di un colpo di stato e che quindi condannandolo a morte.
+Narratore?aperti "Durante una sera, mentre l’uomo organizzava le varie strategie con i possibili conflitti con le capitali confinanti, un altro graduato della forza militare pianificava 
+Narratore?aperti "un tradimento. 
+Narratore?CHIUSI "Il Tenente, studiando i comportamenti del Generale riconosce in lui un carattere pavido e 
+Narratore?aperti "approfittando di questa sua debolezza escogita un modo per poter prendere il suo posto e sbarazzarsi della concorrenza mettendolo in cattiva luce.
+Narratore?aperti "Il Tenente riferisce al Re dell’improvvisa scalata di potere del nuovo Generale, e il Re inizia a dubitare dei piani militari che il Generale proponeva prima di 
+Narratore?aperti "combattere, accusandolo di un colpo di stato e che quindi condannandolo a morte.
 -> Scelte
 
 
