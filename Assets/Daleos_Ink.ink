@@ -336,7 +336,8 @@ Daleos?aperti "Posso aiutarti, prendi questa medicina e vedrai che tuo figlio gu
     *** accetta scelta
     La donna diventa inguardabile ma ottiene la medicina.
     Corre alla sua dimora per poter dare l'antidoto al proprio figlio. 
-    La medicina inizia a funzionare ma per breve tempo così la donna è costretta a tornare dal demone.
+    La medicina inizia a funzionare ma per breve tempo 
+    così la donna è costretta a tornare dal demone.
     -> secondo_patto_malattia
     
     *** rifiuta scelta
@@ -364,7 +365,8 @@ Daleos?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambi
  = Sfondodialogo
 
     * accettare secondo patto
-    La donna diventa infelice, ormai è a un passo dalla sua morte. La donna ottiene l’amuleto, corre alla sua dimora e prega il figlio di tenerlo al collo. L’amuleto, come la medicina, fa effetto inizialmente, ma dopo un paio d’ore l’oggetto si spegne facendo ritornare il ragazzo malato.
+    La donna diventa infelice, ormai è a un passo dalla sua morte. La donna ottiene l’amuleto, corre alla sua dimora e prega il figlio di tenerlo al collo 
+    L’amuleto, come la medicina, fa effetto inizialmente, ma dopo un paio d’ore l’oggetto si spegne facendo ritornare il ragazzo malato.
     -> terzo_patto_malattia
     
     * rifiutare secondo patto
@@ -373,9 +375,11 @@ Daleos?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambi
     
     * controbattere secondo patto
     la donna gli propone al posto della felicità la ricchezza. 
-    ** Accetta “non me ne faccio niente della ricchezza..." disse il demone "aiutami anche te.. accetti o rifiuti la mia proposta?”
+    ** Accetta 
+    Daleos?aperti "Non me ne faccio niente della ricchezza... "aiutami anche te.. accetti o rifiuti la mia proposta?”
     -> secondo_patto_malattia
-    ** Rifiuta “non puoi cambiare i miei patti! Accetti o rifiuti”
+    ** Rifiuta 
+    Daleos?aperti "Non puoi cambiare i miei patti! Accetti o rifiuti”
     -> secondo_patto_malattia
     
 -> terzo_patto_malattia
@@ -389,7 +393,9 @@ Daleos?aperti "proviamo con un oggetto magico? Io ti dono un amuleto ma in cambi
 = POrto
 
 Donna?arrabbiata "L’amuleto, come la medicina che mi hai dato, non ha funzionato!
-Daleos?aperti "capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. Tu dovrai darmi la tua anima ed io guarirò, grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
+Daleos?aperti "capisco, ti propongo un ultimo patto, ti prometto che questa volta funzionerà. 
+Daleos?aperti "Tu dovrai darmi la tua anima ed io guarirò, 
+Daleos?aperti "grazie al tuo sacrificio, tuo figlio. Dovrai solamente firmare questo contratto.
 
 Il demone porge alla donna il foglio con il patto:
 
