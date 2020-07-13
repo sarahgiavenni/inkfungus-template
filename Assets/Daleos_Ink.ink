@@ -51,6 +51,10 @@ Narratore?aperti "Quale storia vuoi affrontare questa volta?
 * [L'Ambizia]
 -> AMBIZIA
 
+
+
+
+
 // Prima Storia
 === FORTUNA ===
 
@@ -625,7 +629,7 @@ Narratore?aperti "Il Tenente riferisce al Re dell’improvvisa scalata di potere
 
 L’uomo cerca di convincere il demone a stipulare un patto più ragionevole
 
-L’uomo, non convito del patto che gli propone il demone, decide di controbattere con un nuovo patto formulato da lui stesso, e gli disse: 
+Non convito del patto che gli propone il demone, decide di controbattere con un nuovo patto formulato da lui stesso, e gli disse: 
 
 Uomo_Ambizia?normale "Se io dono i miei averi più cari, tu mi fai diventare famoso. 
 
