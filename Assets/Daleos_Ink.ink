@@ -476,7 +476,7 @@ Narratore?aperti "Aver perso i soldi voleva dire perdere il nome e quindi per po
 = porto1
 
 Uomo_Ambizia?arrabbiato "Daleos! Dove sei maledetto demone!
-Daleos?chiusi "Dimmi" *sorridendo* che succede?
+Daleos?chiusi "Dimmi che succede?
 Uomo_Ambizia?arrabbiato "Questo maledetto patto.. MI HAI MENTITO!
 Daleos?chiusi "Non posso aiutarti se non mi dici che cosa ti turba
 Uomo_Ambizia?arrabbiato "Con quel tuo patto mi hai reso ancora più povero
@@ -528,7 +528,7 @@ Narratore?aperti "Ed insicuro, anche di se stesso, decise di tornare una terza v
 Daleos?chiusi "Oooh pover uomo, vieni, avvicinati, e raccontami cosa desideri
 Uomo_Ambizia?triste "Non so chi sono, ho bisogno d’aiuto. Dimmi, chi sono?
 Daleos?chiusi "Non posso dirtelo io. Devi saperlo tu
-Uomo_Ambizia?occhi "Ti prego demone *mettendosi in ginocchio* "aiutami
+Uomo_Ambizia?occhi "Ti prego demone aiutami
 Daleos?chiusi "Ma certo, ti propongo un’altro patto..
 Uomo_Ambizia?occhi "*interrompendo il demone* si dimmi tutto, basta che mi aiuti
 Daleos?aperti "Va bene... vediamo... se tu mi darai la tua fiducia, io ti potrò farti sentire meglio dandoti delle risposte
@@ -553,7 +553,7 @@ Narratore?aperti "L’uomo con tono addolorato chiamò il demone una quarta volt
 Uomo_Ambizia?triste "Delos... Daleos, ti scongiuro, dove sei...
 Daleos?chiusi "Dimmi, che succede
 Uomo_Ambizia?occhi "Ho perso tutto..., ti posso offrire qualsiasi cosa
-Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* “devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
+Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* devi solamente firmare qui, fidati di me. Alla fine ti ho sempre aiutato
 
 -> sfondodialogo2
 
