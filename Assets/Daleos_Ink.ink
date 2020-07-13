@@ -542,10 +542,11 @@ Daleos?aperti "Posso aiutarti io” *facendo apparire il contratto* “devi sola
 = sfondodialogo2
 
 
-* Firma
+* Firma 
 -> FIRMA
-* Rifiuta terzo patto
+* Rifiuta terzo patto 
 Il demone la convince: “fidati di me”. L’uomo, ormai consumato, é costretto ad accettare
+
 -> FIRMA
 
 = FIRMA
